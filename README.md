@@ -1,6 +1,6 @@
-# api-docs
+# financalapi-docs
 
-- Financal APIallows fine-grained configuration of how incoming traffic is distributed across VM instances. 
+- This financal API allows fine-grained configuration of how incoming traffic is distributed across VM instances. 
 
 - This Financal API serves as reference for any externally available APIs that publishes to its clients, users, and partners.
 
